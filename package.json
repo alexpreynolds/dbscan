@@ -1,6 +1,6 @@
 {
-  "name": "@cdxoo/dbscan",
-  "version": "1.1.1",
+  "name": "apr144-dbscan",
+  "version": "1.1.1-051524",
   "main": "src/index.js",
   "types": "types/index.d.ts",
   "scripts": {
@@ -24,7 +24,7 @@
   "description": "Customizable DBSCAN clustering for arbitrary datasets",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cdxOo/dbscan.git"
+    "url": "git+https://github.com/alexpreynolds/dbscan.git"
   },
   "keywords": [
     "cluster",
